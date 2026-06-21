@@ -1,0 +1,332 @@
+﻿[
+    {
+        "english":  "Afar",
+        "flag":  "🇪🇹",
+        "native":  "Afaraf",
+        "tag":  "aa"
+    },
+    {
+        "english":  "Albanian",
+        "flag":  "🇦🇱",
+        "native":  "Shqip",
+        "tag":  "sq"
+    },
+    {
+        "english":  "Amharic",
+        "flag":  "🇪🇹",
+        "native":  "አማርኛ",
+        "tag":  "am"
+    },
+    {
+        "english":  "Bambara",
+        "flag":  "🇲🇱",
+        "native":  "Bamanankan",
+        "tag":  "bm"
+    },
+    {
+        "english":  "Asante",
+        "flag":  "🇬🇭",
+        "native":  "Twi",
+        "tag":  "tw"
+    },
+    {
+        "english":  "Assamese",
+        "flag":  "🇮🇳",
+        "native":  "অসমীয়া",
+        "tag":  "as"
+    },
+    {
+        "english":  "Azerbaijani",
+        "flag":  "🇦🇿",
+        "native":  "Azərbaycanca",
+        "tag":  "az"
+    },
+    {
+        "english":  "Bisayan",
+        "flag":  "🇵🇭",
+        "native":  "Cebuano",
+        "tag":  "ceb"
+    },
+    {
+        "english":  "Bosnian",
+        "flag":  "🇧🇦",
+        "native":  "Bosanski",
+        "tag":  "bs"
+    },
+    {
+        "english":  "Chinese",
+        "flag":  "🇨🇳",
+        "native":  "中文",
+        "tag":  "zh"
+    },
+    {
+        "english":  "Croatian",
+        "flag":  "🇭🇷",
+        "native":  "Hrvatski",
+        "tag":  "hr"
+    },
+    {
+        "english":  "Dutch",
+        "flag":  "🇳🇱",
+        "native":  "Nederlands",
+        "tag":  "nl"
+    },
+    {
+        "english":  "English",
+        "flag":  "🇺🇸",
+        "native":  "English",
+        "tag":  "en"
+    },
+    {
+        "english":  "French",
+        "flag":  "🇫🇷",
+        "native":  "Français",
+        "tag":  "fr"
+    },
+    {
+        "english":  "Fulani",
+        "flag":  "🇬🇳",
+        "native":  "Fulfulde",
+        "tag":  "ff"
+    },
+    {
+        "english":  "German",
+        "flag":  "🇩🇪",
+        "native":  "Deutsch",
+        "tag":  "de"
+    },
+    {
+        "english":  "Gujarati",
+        "flag":  "🇮🇳",
+        "native":  "ગુજરાતી",
+        "tag":  "gu"
+    },
+    {
+        "english":  "Hausa",
+        "flag":  "🇳🇬",
+        "native":  "Hausa",
+        "tag":  "ha"
+    },
+    {
+        "english":  "Hindi",
+        "flag":  "🇮🇳",
+        "native":  "हिन्दी",
+        "tag":  "hi"
+    },
+    {
+        "english":  "Kirundi",
+        "flag":  "🇧🇮",
+        "native":  "Ikirundi",
+        "tag":  "rn"
+    },
+    {
+        "english":  "Indonesian",
+        "flag":  "🇮🇩",
+        "native":  "Bahasa Indonesia",
+        "tag":  "id"
+    },
+    {
+        "english":  "Japanese",
+        "flag":  "🇯🇵",
+        "native":  "日本語",
+        "tag":  "ja"
+    },
+    {
+        "english":  "Kannada",
+        "flag":  "🇮🇳",
+        "native":  "ಕನ್ನಡ",
+        "tag":  "kn"
+    },
+    {
+        "english":  "Khmer",
+        "flag":  "🇰🇭",
+        "native":  "ភាសាខ្មែر",
+        "tag":  "km"
+    },
+    {
+        "english":  "Kinyarwanda",
+        "flag":  "🇷🇼",
+        "native":  "Kinyarwanda",
+        "tag":  "rw"
+    },
+    {
+        "english":  "Kurdish",
+        "flag":  "🇮🇶",
+        "native":  "Kurdî",
+        "tag":  "ku"
+    },
+    {
+        "english":  "Kyrgyz",
+        "flag":  "🇰🇬",
+        "native":  "Кыргызча",
+        "tag":  "ky"
+    },
+    {
+        "english":  "Lingala",
+        "flag":  "🇨🇩",
+        "native":  "Lingála",
+        "tag":  "ln"
+    },
+    {
+        "english":  "Lithuanian",
+        "flag":  "🇱🇹",
+        "native":  "Lietuvių",
+        "tag":  "lt"
+    },
+    {
+        "english":  "Macedonian",
+        "flag":  "🇲🇰",
+        "native":  "Македонски",
+        "tag":  "mk"
+    },
+    {
+        "english":  "Maguindanao",
+        "flag":  "🇵🇭",
+        "native":  "Maguindanao",
+        "tag":  "mdh"
+    },
+    {
+        "english":  "Malay",
+        "flag":  "🇲🇾",
+        "native":  "Bahasa Melayu",
+        "tag":  "ms"
+    },
+    {
+        "english":  "Moore",
+        "flag":  "🇧🇫",
+        "native":  "Mooré",
+        "tag":  "mos"
+    },
+    {
+        "english":  "Oromo",
+        "flag":  "🇪🇹",
+        "native":  "Oromoo",
+        "tag":  "om"
+    },
+    {
+        "english":  "Pashto",
+        "flag":  "🇦🇫",
+        "native":  "پښتو",
+        "tag":  "ps"
+    },
+    {
+        "english":  "Persian",
+        "flag":  "🇮🇷",
+        "native":  "فارسی",
+        "tag":  "fa"
+    },
+    {
+        "english":  "Portuguese",
+        "flag":  "🇵🇹",
+        "native":  "Português",
+        "tag":  "pt"
+    },
+    {
+        "english":  "Punjabi",
+        "flag":  "🇵🇰",
+        "native":  "ਪੰਜਾਬੀ",
+        "tag":  "pa"
+    },
+    {
+        "english":  "Romanian",
+        "flag":  "🇷🇴",
+        "native":  "Română",
+        "tag":  "ro"
+    },
+    {
+        "english":  "Serbian",
+        "flag":  "🇷🇸",
+        "native":  "Српски",
+        "tag":  "sr"
+    },
+    {
+        "english":  "Sinhala",
+        "flag":  "🇱🇰",
+        "native":  "සිංහල",
+        "tag":  "si"
+    },
+    {
+        "english":  "Somali",
+        "flag":  "🇸🇴",
+        "native":  "Af-Soomaali",
+        "tag":  "so"
+    },
+    {
+        "english":  "Spanish",
+        "flag":  "🇪🇸",
+        "native":  "Español",
+        "tag":  "es"
+    },
+    {
+        "english":  "Swahili",
+        "flag":  "🇹🇿",
+        "native":  "Kiswahili",
+        "tag":  "sw"
+    },
+    {
+        "english":  "Tagalog",
+        "flag":  "🇵🇭",
+        "native":  "Tagalog",
+        "tag":  "tl"
+    },
+    {
+        "english":  "Tajik",
+        "flag":  "🇹🇯",
+        "native":  "تاجیکی",
+        "tag":  "tg"
+    },
+    {
+        "english":  "Tamil",
+        "flag":  "🇮🇳",
+        "native":  "தமிழ்",
+        "tag":  "ta"
+    },
+    {
+        "english":  "Telugu",
+        "flag":  "🇮🇳",
+        "native":  "తెలుగు",
+        "tag":  "te"
+    },
+    {
+        "english":  "Thai",
+        "flag":  "🇹🇭",
+        "native":  "ไทย",
+        "tag":  "th"
+    },
+    {
+        "english":  "Turkish",
+        "flag":  "🇹🇷",
+        "native":  "Türkçe",
+        "tag":  "tr"
+    },
+    {
+        "english":  "Urdu",
+        "flag":  "🇵🇰",
+        "native":  "اردو",
+        "tag":  "ur"
+    },
+    {
+        "english":  "Uyghur",
+        "flag":  "🇨🇳",
+        "native":  "ئۇيغۇرچە",
+        "tag":  "ug"
+    },
+    {
+        "english":  "Uzbek",
+        "flag":  "🇺🇿",
+        "native":  "O\u0027zbekcha",
+        "tag":  "uz"
+    },
+    {
+        "english":  "Vietnamese",
+        "flag":  "🇻🇳",
+        "native":  "Tiếng Việt",
+        "tag":  "vi"
+    },
+    {
+        "english":  "Yoruba",
+        "flag":  "🇳🇬",
+        "native":  "Yorùbá",
+        "tag":  "yo"
+    }
+]
